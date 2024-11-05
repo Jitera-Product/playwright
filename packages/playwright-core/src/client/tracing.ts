@@ -89,7 +89,6 @@ export class Tracing
 
   async stopChunk() {
     this._traceBuffer = await this._collectTraceAsBuffer();
-    return this._traceBuffer;
   }
 
   async stop() {
