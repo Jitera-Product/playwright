@@ -85,7 +85,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^16.4.5",
     "electron": "^30.1.2",
-    "esbuild": "^0.18.11",
+    "esbuild": "^0.25.0",
     "eslint": "^8.55.0",
     "eslint-plugin-internal-playwright": "file:utils/eslint-plugin-internal-playwright",
     "eslint-plugin-notice": "^0.9.10",
